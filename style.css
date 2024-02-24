@@ -9,7 +9,7 @@
 }
 
 html {
-  font-size: 62.5%;
+  font-size: 62.5%; /*pour que 1rem=10px car taille par defaut du navigateur est de 16px (rem unite relative au parent) */
   -webkit-tap-highlight-color: transparent;
   -webkit-text-size-adjust: 100%;
   overflow-wrap: break-word;
